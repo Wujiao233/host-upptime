@@ -4,39 +4,31 @@
     "url": "https://www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
-    "time": 87
+    "uptime": "100.00%",
+    "time": 25
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Konachan-CHS",
+    "url": "https://konachan.wjcodes.com",
+    "slug": "konachan-chs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 125
+    "time": 2186
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Konachan-CHS-http",
+    "url": "http://konachan.wjcodes.com",
+    "slug": "konachan-chs-http",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 347
+    "uptime": "100.00%",
+    "time": 1824
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Blog",
+    "url": "https://wp.wjcodes.com",
+    "slug": "blog",
     "status": "up",
-    "uptime": "99.97%",
-    "time": 48
+    "uptime": "100.00%",
+    "time": 912
   }
 ]
