@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 84
+    "time": 80
   },
   {
     "name": "Konachan-CHS",
@@ -13,7 +13,7 @@
     "slug": "konachan-chs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2456
+    "time": 2411
   },
   {
     "name": "Konachan-CHS-http",
@@ -21,7 +21,7 @@
     "slug": "konachan-chs-http",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2332
+    "time": 2340
   },
   {
     "name": "Blog",
@@ -29,6 +29,6 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 868
+    "time": 882
   }
 ]
