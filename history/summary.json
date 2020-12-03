@@ -5,7 +5,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 83
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 97,
+    "timeDay": 121,
+    "timeWeek": 102,
+    "timeMonth": 97,
+    "timeYear": 97
   },
   {
     "name": "Konachan-CHS",
@@ -13,7 +21,15 @@
     "slug": "konachan-chs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2410
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2443,
+    "timeDay": 2705,
+    "timeWeek": 2489,
+    "timeMonth": 2443,
+    "timeYear": 2443
   },
   {
     "name": "Konachan-CHS-http",
@@ -21,7 +37,15 @@
     "slug": "konachan-chs-http",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2325
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2329,
+    "timeDay": 2353,
+    "timeWeek": 2423,
+    "timeMonth": 2329,
+    "timeYear": 2329
   },
   {
     "name": "Blog",
@@ -29,6 +53,14 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 864
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 866,
+    "timeDay": 879,
+    "timeWeek": 886,
+    "timeMonth": 866,
+    "timeYear": 866
   }
 ]
