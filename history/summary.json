@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 112,
-    "timeWeek": 110,
-    "timeMonth": 98,
-    "timeYear": 98
+    "time": 95,
+    "timeDay": 64,
+    "timeWeek": 109,
+    "timeMonth": 95,
+    "timeYear": 95
   },
   {
     "name": "Konachan-CHS",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2453,
-    "timeDay": 2541,
-    "timeWeek": 2504,
-    "timeMonth": 2453,
-    "timeYear": 2453
+    "time": 2477,
+    "timeDay": 2713,
+    "timeWeek": 2527,
+    "timeMonth": 2477,
+    "timeYear": 2477
   },
   {
     "name": "Konachan-CHS-http",
@@ -42,8 +42,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2310,
-    "timeDay": 2141,
-    "timeWeek": 2397,
+    "timeDay": 2314,
+    "timeWeek": 2327,
     "timeMonth": 2310,
     "timeYear": 2310
   },
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 1054,
-    "timeWeek": 893,
-    "timeMonth": 885,
-    "timeYear": 885
+    "time": 880,
+    "timeDay": 839,
+    "timeWeek": 913,
+    "timeMonth": 880,
+    "timeYear": 880
   }
 ]
