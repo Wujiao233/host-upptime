@@ -58,17 +58,19 @@
     "url": "https://wp.wjcodes.com",
     "icon": "https://favicons.githubusercontent.com/wp.wjcodes.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 717,
-    "timeWeek": 780,
-    "timeMonth": 842,
-    "timeYear": 842,
-    "dailyMinutesDown": {}
+    "time": 822,
+    "timeDay": 592,
+    "timeWeek": 741,
+    "timeMonth": 822,
+    "timeYear": 822,
+    "dailyMinutesDown": {
+      "2020-12-12": 0
+    }
   }
 ]
