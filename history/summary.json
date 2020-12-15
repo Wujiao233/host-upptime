@@ -40,18 +40,20 @@
     "url": "http://konachan.wjcodes.com",
     "icon": "https://favicons.githubusercontent.com/konachan.wjcodes.com",
     "slug": "konachan-chs-http",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2261,
-    "timeDay": 2398,
-    "timeWeek": 2218,
-    "timeMonth": 2261,
-    "timeYear": 2261,
-    "dailyMinutesDown": {}
+    "time": 2174,
+    "timeDay": 1377,
+    "timeWeek": 1985,
+    "timeMonth": 2174,
+    "timeYear": 2174,
+    "dailyMinutesDown": {
+      "2020-12-15": 0
+    }
   },
   {
     "name": "Blog",
