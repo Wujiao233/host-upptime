@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 68,
-    "timeWeek": 135,
-    "timeMonth": 126,
-    "timeYear": 98,
+    "timeDay": 372,
+    "timeWeek": 177,
+    "timeMonth": 135,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/konachan.wjcodes.com",
     "slug": "konachan-chs",
     "status": "down",
-    "uptime": "77.27%",
+    "uptime": "77.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.96%",
-    "time": 1235,
-    "timeDay": 100,
-    "timeWeek": 104,
-    "timeMonth": 106,
-    "timeYear": 928,
+    "uptimeYear": "61.69%",
+    "time": 1233,
+    "timeDay": 174,
+    "timeWeek": 119,
+    "timeMonth": 109,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2022-08-01": 44,
+      "2022-08-02": 40,
+      "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
@@ -179,8 +180,7 @@
       "2021-11-11": 13,
       "2021-10-06": 21,
       "2021-09-20": 18,
-      "2021-08-23": 17,
-      "2021-08-02": 43
+      "2021-08-23": 17
     }
   },
   {
@@ -189,16 +189,16 @@
     "icon": "https://favicons.githubusercontent.com/konachan.wjcodes.com",
     "slug": "konachan-chs-http",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "93.62%",
-    "time": 1598,
-    "timeDay": 1345,
-    "timeWeek": 1473,
-    "timeMonth": 1373,
-    "timeYear": 1306,
+    "time": 1596,
+    "timeDay": 1206,
+    "timeWeek": 1463,
+    "timeMonth": 1416,
+    "timeYear": 1304,
     "dailyMinutesDown": {
       "2022-07-07": 89,
       "2022-07-01": 37,
@@ -235,8 +235,7 @@
       "2021-11-11": 16,
       "2021-10-06": 20,
       "2021-09-20": 18,
-      "2021-08-23": 17,
-      "2021-08-02": 43
+      "2021-08-23": 17
     }
   },
   {
@@ -245,18 +244,19 @@
     "icon": "https://favicons.githubusercontent.com/wp.wjcodes.com",
     "slug": "blog",
     "status": "down",
-    "uptime": "77.29%",
+    "uptime": "77.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.97%",
-    "time": 613,
-    "timeDay": 88,
+    "uptimeYear": "61.70%",
+    "time": 611,
+    "timeDay": 142,
     "timeWeek": 111,
-    "timeMonth": 113,
-    "timeYear": 536,
+    "timeMonth": 114,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2022-08-01": 44,
+      "2022-08-02": 40,
+      "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
@@ -400,8 +400,7 @@
       "2021-11-12": 55,
       "2021-10-06": 19,
       "2021-09-20": 18,
-      "2021-09-08": 23,
-      "2021-08-02": 43
+      "2021-09-08": 23
     }
   }
 ]
