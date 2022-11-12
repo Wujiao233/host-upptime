@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 181,
+    "timeDay": 97,
     "timeWeek": 95,
     "timeMonth": 106,
     "timeYear": 97,
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/konachan.wjcodes.com.ico",
     "slug": "konachan-chs",
     "status": "down",
-    "uptime": "66.26%",
+    "uptime": "66.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.04%",
-    "time": 797,
-    "timeDay": 3856,
-    "timeWeek": 640,
-    "timeMonth": 225,
-    "timeYear": 556,
+    "uptimeYear": "33.78%",
+    "time": 793,
+    "timeDay": 110,
+    "timeWeek": 644,
+    "timeMonth": 224,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-11-11": 42,
+      "2022-11-12": 41,
+      "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
@@ -276,8 +277,7 @@
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 944,
-      "2021-11-13": 20,
-      "2021-11-12": 72
+      "2021-11-13": 20
     }
   },
   {
@@ -286,16 +286,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/konachan.wjcodes.com.ico",
     "slug": "konachan-chs-http",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.63%",
     "time": 1545,
-    "timeDay": 1791,
-    "timeWeek": 2275,
-    "timeMonth": 2207,
-    "timeYear": 1483,
+    "timeDay": 1395,
+    "timeWeek": 2117,
+    "timeMonth": 2203,
+    "timeYear": 1484,
     "dailyMinutesDown": {
       "2022-10-05": 22,
       "2022-10-02": 24,
@@ -329,8 +329,7 @@
       "2022-03-18": 1440,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
-      "2022-03-15": 944,
-      "2021-11-12": 30
+      "2022-03-15": 944
     }
   },
   {
@@ -339,18 +338,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wp.wjcodes.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "66.28%",
+    "uptime": "66.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.04%",
+    "uptimeYear": "33.77%",
     "time": 463,
-    "timeDay": 128,
-    "timeWeek": 140,
-    "timeMonth": 261,
-    "timeYear": 345,
+    "timeDay": 72,
+    "timeWeek": 137,
+    "timeMonth": 259,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-11-11": 42,
+      "2022-11-12": 41,
+      "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
@@ -592,8 +592,7 @@
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 944,
-      "2021-11-13": 20,
-      "2021-11-12": 55
+      "2021-11-13": 20
     }
   }
 ]
